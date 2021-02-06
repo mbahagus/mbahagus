@@ -5,7 +5,7 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbahagus)
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbahagus&repo=Rest-API-Node.js&theme=dark)](https://github.com/mbahagus/Rest-API-Node.js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbahagus&repo=Rest-API-Node.js)](https://github.com/mbahagus/Rest-API-Node.js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbahagus&repo=Rest-API-Python)](https://github.com/mbahagus/Rest-API-Python)
 
 <!--

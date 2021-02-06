@@ -7,6 +7,8 @@
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbahagus&repo=Rest-API-Node.js&cache_seconds=2000)](https://github.com/mbahagus/Rest-API-Node.js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbahagus&repo=Rest-API-Python&cache_seconds=2000)](https://github.com/mbahagus/Rest-API-Python)
+---
+[![mbahagus wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mbahagus)](https://github.com/mbahagus/mbahagus)
 
 <!--
 **mbahagus/mbahagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> AgustD
 ## 🌱 I'm currently learning programming
 ---
-![mbahagus github stats](https://github-readme-stats.vercel.app/api?username=mbahagus&show_icons=true&theme=buefy&show_owner=true)
+![mbahagus github stats](https://github-readme-stats.vercel.app/api?username=mbahagus&show_icons=true&theme=buefy)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbahagus&theme=buefy)
 ---

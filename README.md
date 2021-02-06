@@ -4,9 +4,6 @@
 ![mbahagus github stats](https://github-readme-stats.vercel.app/api?username=mbahagus&cache_seconds=2000&show_owner=true)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbahagus&cache_seconds=2000&layout=compact)
----
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbahagus&repo=Rest-API-Node.js&cache_seconds=2000)](https://github.com/mbahagus/Rest-API-Node.js)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mbahagus&repo=Rest-API-Python&cache_seconds=2000)](https://github.com/mbahagus/Rest-API-Python)
 
 <!--
 **mbahagus/mbahagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
